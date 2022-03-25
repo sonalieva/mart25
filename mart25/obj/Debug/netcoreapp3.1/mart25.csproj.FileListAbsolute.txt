@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\bin\Debug\netcoreapp3.1\mart25.exe
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\bin\Debug\netcoreapp3.1\mart25.deps.json
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\bin\Debug\netcoreapp3.1\mart25.runtimeconfig.json
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\bin\Debug\netcoreapp3.1\mart25.runtimeconfig.dev.json
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\bin\Debug\netcoreapp3.1\mart25.dll
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\bin\Debug\netcoreapp3.1\mart25.pdb
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.dll
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.pdb
+C:\Users\user\Downloads\PortableGit\BP202\mart25\mart25\obj\Debug\netcoreapp3.1\mart25.genruntimeconfig.cache
